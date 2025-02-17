@@ -11,7 +11,9 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 ## 🏆 Certs
+- **Postman API Fundamentals Student Expert:** [Postman API badge](https://badgr.com/public/assertions/KZFJWUXvQt6UrSunCjQF8w?identity__email=fabiocardoso@live.com)
 - **ISTQB** Certified Tester Foundation Level: [ISTQB](https://bcr.bstqb.org.br/cert?field_certificado_numero_value=+13-CTFL-02680-BR&field_certificado_nome_value=Fabio+Cardoso)
+
 ## 🚧 Core Skills:
 
 <!-- TODO-IST:START -->
